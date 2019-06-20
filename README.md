@@ -1,2 +1,2 @@
-# sRIde RNA-Seq
-Snakemake enabled pipeline for smallRNA-Seq identification
+# sRIde miRNA-Seq
+Snakemake enabled pipeline for miRNA-Seq identification
